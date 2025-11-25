@@ -19,5 +19,5 @@ Podría ponerme filosófico y decir *soy un ente que piensa y luego actua* o má
 aquí tienes  [mi MF Instagram :hand_over_mouth:](https://www.instagram.com/josue_siero/)
 Pero para intereses de nuetra rama podría resumirlo en que Soy una persona **Muy** curiosa y cuando me gusta algo lo exprimo!
 
-De momento estoy feliz con no tener una neurona bailando que me mantiene alerta y me perite aprender programación en **Java** *o por lo menos intentarlo*
+De momento estoy feliz con tener una neurona bailando que me mantiene alerta y me perite aprender programación en **Java** *o por lo menos intentarlo*
 saber la diferencia entre un `(Int)` y un `(double)` me da esperanzas. Veremos en qué acaba esto... deseadme suerte.
