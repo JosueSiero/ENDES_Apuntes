@@ -16,8 +16,8 @@ En este Git podréis ver lo siguiente:
 
 ## Quién soy? :pinched_fingers:
 Podría ponerme filosófico y decir *soy un ente que piensa y luego actua* o más biológico y decir *un sapiens sapiens medianamente sano* o más actual (*tengo 27 años no tengo tiktok*) y decirte:
-aquí tienes mi Instagram :hand_over_mouth: [Texto visible](https://www.instagram.com/josue_siero/)
+aquí tienes  [Mi MF Instagram :hand_over_mouth:](https://www.instagram.com/josue_siero/)
 Pero para intereses de nuetra rama podría resumirlo en que Soy una persona **Muy** curiosa y cuando me gusta algo lo exprimo!
 
 De momento estoy feliz con no tener una neurona bailando que me mantiene alerta y me perite aprender programación en **Java** *o por lo menos intentarlo*
-saber la diferencia entre un `print(Int)` y un `print(double)` me da esperanzas. Veremos en qué acaba esto... deseadme suerte.
+saber la diferencia entre un `(Int)` y un `(double)` me da esperanzas. Veremos en qué acaba esto... deseadme suerte.
